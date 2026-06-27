@@ -99,8 +99,8 @@ lista dupla e O(1).
 
 ## Autores
 
-- *(preencher: Nome — RA)*
-- *(preencher: Nome — RA)*
+- Pedro Augusto Rodrigues Martins — RA: 5164033
+- Tiago Ribeiro Prissinoti Simari — RA: 5168616
 
 ## Licenca
 

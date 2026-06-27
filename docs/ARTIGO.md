@@ -1,6 +1,6 @@
 # StructureJava: implementação de uma biblioteca de estruturas de dados lineares e de árvore binária de busca em Java sem dependência do pacote `java.util`
 
-**Autores:** *(preencher: Nome Completo — RA)*; *(preencher: Nome Completo — RA)*
+**Autores:** Pedro Augusto Rodrigues Martins — RA: 5164033; Tiago Ribeiro Prissinoti Simari — RA: 5168616
 
 **Instituição:** Universidade de Uberaba (UNIUBE) — Estrutura de Dados I — 2026/1
 
